@@ -1,6 +1,8 @@
 # JS-RPG-Game
 Simple RPG game made with JavaScript.
 
+I used HTML, CSS and JavaScript when I am doing this RPG game project. I got help from amazing instructors from Scrimba to do that project.
+
 ![2](https://user-images.githubusercontent.com/73862428/177766008-fbb3d1ae-c17e-48b8-8f63-17d3f41a32db.png)
 
 ![3](https://user-images.githubusercontent.com/73862428/177766011-e3ddfc62-34f4-4b20-b862-73517f926a9d.png)
