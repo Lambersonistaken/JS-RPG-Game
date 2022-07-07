@@ -7,7 +7,9 @@ Simple RPG game made with JavaScript.
 
 ![4](https://user-images.githubusercontent.com/73862428/177766013-a5c425ba-58b2-4b87-afad-4c335f6219cc.png)
 
+![1](https://user-images.githubusercontent.com/73862428/177766017-5670a755-a751-4865-8033-cefe7fc8bfc1.png)
+
 ![5](https://user-images.githubusercontent.com/73862428/177766015-8222112d-b556-4b3b-87ad-2c02b37e2875.png)
 
-![1](https://user-images.githubusercontent.com/73862428/177766017-5670a755-a751-4865-8033-cefe7fc8bfc1.png)
+
 
